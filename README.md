@@ -1,7 +1,7 @@
 # Hi, I'm Matvey
 **Python Developer | Backend | AI/LLM | Blockchain**
 
-I'm focused on building **complex and interesting technology**.
+I'm focused on building **complex and interesting technology**
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
